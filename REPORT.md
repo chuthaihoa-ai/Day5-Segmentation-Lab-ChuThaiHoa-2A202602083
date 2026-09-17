@@ -1,7 +1,5 @@
 # Báo cáo Day 5 — điền trực tiếp trong fork của bạn
 
-# Mẫu tham khảo để điền REPORT.md
-
 - Mã học viên theo lớp: 2A202602083
 - Ngày / CVAT local: 17/09/2026 / CVAT local
 - Công cụ đã dùng: Brush / Polygon
